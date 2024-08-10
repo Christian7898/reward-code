@@ -1,0 +1,48 @@
+{
+    "29320": {
+        "ricompense": [
+            {
+                "reward": "WEAPON_PISTOL",
+                "quantity": 1
+            },
+            {
+                "reward": "MONEY",
+                "quantity": 1000
+            }
+        ],
+        "idDiscord": 617155056340434982,
+        "utilizzato": true
+    },
+    "15397": {
+        "ricompense": [
+            {
+                "reward": "WEAPON_PISTOL",
+                "quantity": 1
+            },
+            {
+                "reward": "MONEY",
+                "quantity": 100000
+            },
+            {
+                "reward": "AMMO-9",
+                "quantity": 100000
+            }
+        ],
+        "idDiscord": 617155056340434982,
+        "utilizzato": true
+    },
+    "23933": {
+        "ricompense": [
+            {
+                "reward": "WEAPON_PISTOL",
+                "quantity": 1
+            },
+            {
+                "reward": "MONEY",
+                "quantity": 1000
+            }
+        ],
+        "idDiscord": 617155056340434982,
+        "utilizzato": true
+    }
+}
